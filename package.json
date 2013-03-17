@@ -1,0 +1,10 @@
+{
+	"name": "ChatIO",
+	"description": "A simple chat with node.js and websockets",
+	"version": "0.0.1",
+	"private": true,
+	"dependencies":{
+		"express": "3.x",
+		"socket.io": "0.9.x"
+	}
+}
